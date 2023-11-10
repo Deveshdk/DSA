@@ -9,8 +9,12 @@
 
   <ItemGroup>
     <None Remove="Easy\" />
+    <None Remove="Medium\" />
+    <None Remove="Hard\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Easy\" />
+    <Folder Include="Medium\" />
+    <Folder Include="Hard\" />
   </ItemGroup>
 </Project>
