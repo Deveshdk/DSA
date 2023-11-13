@@ -13,9 +13,6 @@ namespace DSAProject.Easy
             }
             return r == x;
         }
-
-
-
 	}
 }
 
